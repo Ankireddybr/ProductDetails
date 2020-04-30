@@ -1,0 +1,8 @@
+server :
+  port : 59600
+  
+spring:
+  main:
+  profile: local
+  application:
+           name:  ProductDetails
